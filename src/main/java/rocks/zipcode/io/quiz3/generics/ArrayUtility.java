@@ -39,6 +39,8 @@ public class ArrayUtility<SomeType> {
     }
 
     public SomeType[] filter(Function<SomeType, Boolean> predicate) {
+//        Arrays.stream(array)
+//                .filter(element -> array.)
         return null;
     }
 }
